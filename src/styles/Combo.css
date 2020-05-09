@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #333;
+    
+    color: white;
+    font-size: 40px;
+}
+
+.comboEmote{
+    display: inline ;
+}
