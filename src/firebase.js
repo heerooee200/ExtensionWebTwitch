@@ -1,5 +1,5 @@
 export default{
-    apiKey: "AIzaSyANayqOfQLw2FUENLW6ORuSSJmr3Zy14x8",
+    apiKey: "CLAVEDELAPI",
     authDomain: "comboemote.firebaseapp.com",
     databaseURL: "https://comboemote.firebaseio.com",
     projectId: "comboemote",
